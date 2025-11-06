@@ -1,0 +1,48 @@
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+__pycache__/
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+.cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Environment variables
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# VS Code (pro jistotu)
+.vscode/
+
